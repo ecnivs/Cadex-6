@@ -13,6 +13,8 @@ export const getJSON = async (query: string): Promise<JsonResponse> => {
 	// limits the search to 5 entries, no next support for now
 	const apiEndpoint =
 		"https://jiosaavn-api-privatecvc2.vercel.app/search/songs?limit=5&query=";
+
+
 	const apiURL = apiEndpoint + query;
 
 	try {

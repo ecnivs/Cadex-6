@@ -7,7 +7,8 @@ import * as dom from "./dom";
 
 events.list.searchMusic("Mohit Chauhan");
 
-dom.search?.addEventListener("click", ()=>{
+dom.search?.addEventListener("click", (e)=>{
+	e.preventDefault();
 	const input = dom.input.value;
 	events.list.searchMusic(input);
 	const state = dom.audio.paused;
