@@ -1,12 +1,13 @@
-# Cadex-6 Music Player
-MUSIC PLAYER
+# Music Player
+
+## Team Cadix 6 -- IEEE CodaThon 2023
 
 
-Install dependencies
+### Install dependencies
 > npm i
 
-To start dev server
+### To start dev server
 > npm run dev
 
-To build
+### To build
 > npm run build
