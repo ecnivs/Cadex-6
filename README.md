@@ -2,11 +2,11 @@
 MUSIC PLAYER
 
 
-install dependencies
+Install dependencies
 > npm i
 
-to start dev server
+To start dev server
 > npm run dev
 
-to build
+To build
 > npm run build
