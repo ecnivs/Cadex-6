@@ -1,4 +1,4 @@
-# cadex-6 Music Player
+# Cadex-6 Music Player
 MUSIC PLAYER
 
 
