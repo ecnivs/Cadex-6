@@ -4,10 +4,16 @@
 
 
 ### Install dependencies
-> npm i
+```
+npm i
+```
 
 ### To start dev server
-> npm run dev
+```
+npm run dev
+```
 
 ### To build
-> npm run build
+```
+npm run build
+```
